@@ -5,7 +5,8 @@
 * C#
 * Python
 * AutoHotKey
+* Arduino
 * JavaScript
 * HTML/CSS
 
-### 🌐 My Website: [himdek.com](https://himdek.com)
+### 🔗 My Website: [himdek.com](https://himdek.com)
