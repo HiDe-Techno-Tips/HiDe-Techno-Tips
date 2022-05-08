@@ -6,6 +6,7 @@
 * Python
 * AutoHotKey
 * Arduino
+* Bash
 * JavaScript
 * HTML/CSS
 
