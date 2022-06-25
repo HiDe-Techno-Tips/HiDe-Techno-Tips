@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <title>Himprakash Deka | About</title>
-<link rel="stylesheet" type="text/css" href="https://hide-techno-tips.github.io/style.css">
+<link rel="stylesheet" type="text/css" href="../style.css">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -39,7 +39,7 @@ function Menu(icon) {
 </script>
 
 <script>
-fetch("https://api.github.com/users/Hide-techno-tips/repos").then(res => res.json()).then((out) => {
+fetch("https://api.github.com/users/HimDek/repos").then(res => res.json()).then((out) => {
 	count = 0;
 	for (let i = 0; ; i++) {
 		if (out[i] == null) {
@@ -55,7 +55,7 @@ fetch("https://api.github.com/users/Hide-techno-tips/repos").then(res => res.jso
 </script>
 
 <script>
-fetch("https://api.github.com/users/Hide-techno-tips/gists").then(res => res.json()).then((out) => {
+fetch("https://api.github.com/users/HimDek/gists").then(res => res.json()).then((out) => {
 	count = 0;
 	divtxt = "";
 	for (let i = 0; ; i++) {
@@ -68,7 +68,7 @@ fetch("https://api.github.com/users/Hide-techno-tips/gists").then(res => res.jso
 })
 </script>
 
-<div id = "content"></div>
+<div id = "content" class="main"></div>
 <script>
 fetch("README.md").then(function(response) {
     	response.text().then(function(text) {
