@@ -1,4 +1,4 @@
-<p align=center>
+<p align=center class="invisible">
 <a href="https://himdek.com"><img src="https://img.shields.io/badge/My%20Website-HimDek.com-blue?style=for-the-badge&logo=Internet-Explorer" /></a>
 </p>
 
@@ -27,5 +27,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=Acenoster-ZSH-Theme&theme=algolia&hide_border=true&bg_color=00000000" />
 </a>
 </p>
+
+<br/>
   
 
