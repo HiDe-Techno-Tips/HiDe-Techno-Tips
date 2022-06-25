@@ -21,10 +21,10 @@
 
 <p align=center background-color="inherit">
 <a href="https://github.com/HimDek/Simple-Kickoff-for-Plasma">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=Simple-Kickoff-for-Plasma&theme=algolia&no-frame=true&bg_color=00000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=Simple-Kickoff-for-Plasma&theme=algolia&hide_border=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/HimDek/Acenoster-ZSH-Theme">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=Acenoster-ZSH-Theme&theme=algolia&no-frame=true&bg_color=00000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=Acenoster-ZSH-Theme&theme=algolia&hide_border=true&bg_color=00000000" />
 </a>
 </p>
   
