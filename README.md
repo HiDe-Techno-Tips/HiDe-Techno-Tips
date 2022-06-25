@@ -15,7 +15,7 @@
   
 <br /><br />
 
-<p align=center><img src="https://github-profile-trophy.vercel.app/?username=HimDek&theme=city_light&no-frame=true&column=-1&no-bg=true" /></p>
+<p align=center><img src="https://github-profile-trophy.vercel.app/?username=HimDek&theme=tokyonight&no-frame=true&column=-1&no-bg=true" /></p>
 
 <br /><br />
 
