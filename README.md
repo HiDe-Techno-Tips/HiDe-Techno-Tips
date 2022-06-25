@@ -26,8 +26,19 @@
 <a href="https://github.com/HimDek/Acenoster-ZSH-Theme">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=Acenoster-ZSH-Theme&theme=city_light&hide_border=true&bg_color=00000000" />
 </a>
+<a href="https://github.com/HimDek/Windows-Activator">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=Windows-Activator&theme=city_light&hide_border=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/HimDek/GitHub-List-Repositories-HTML">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimDek&repo=GitHub-List-Repositories-HTML&theme=city_light&hide_border=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/HiDe-Techno-Tips/yuzu-Early-Access-Launcher">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiDe-Techno-Tips&repo=yuzu-Early-Access-Launcher&theme=city_light&hide_border=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/HiDe-Techno-Tips/Blackeye-for-Windows">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiDe-Techno-Tips&repo=Blackeye-for-Windows&theme=city_light&hide_border=true&bg_color=00000000" />
+</a>
 </p>
-
 <br/>
   
 
