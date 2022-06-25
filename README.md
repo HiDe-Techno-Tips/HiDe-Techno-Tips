@@ -3,10 +3,10 @@
 <br />
 
 <a href="https://github.com/HimDek/">
-<img align="center" height="193px" src="https://github-readme-stats.vercel.app/api?username=HimDek&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true" />
+<img align="center" height="192px" src="https://github-readme-stats.vercel.app/api?username=HimDek&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true" />
 </a>
 <a href="https://github.com/HimDek?tab=repositories">
-<img align="center" height="193px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HimDek&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true&layout=compact&langs_count=10" />
+<img align="center" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=HimDek&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true&layout=compact&langs_count=10" />
 </a>
 
 <br /><br />
